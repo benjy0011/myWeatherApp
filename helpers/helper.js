@@ -31,6 +31,4 @@ const getWeatherIcon = (weatherCode, time24) => {
     return iconMap[weatherCode];
 };
 
-console.log(getWeatherIcon(1,"0700"))
-
 module.exports = { getWeatherIcon };
