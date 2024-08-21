@@ -1,6 +1,9 @@
 # myWeatherApp
 This is my project 1 for Certified Associate in Back-end Development course with Talentlabs. I am creating a weather app with ExpressJS and NodeJS.
 
+Try out:
+https://myweatherapp-xcw8.onrender.com
+
 API:
 
 OpenCage - Geocode (https://opencagedata.com/)
