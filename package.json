@@ -10,7 +10,7 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "",
+  "description": "Project 1 TalentLabs - Weather App Guide using OpenCage API and OpenMeteo API",
   "dependencies": {
     "axios": "^1.5.1",
     "dotenv": "^16.3.1",
