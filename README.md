@@ -1,5 +1,5 @@
 # myWeatherApp
-This is my project 1 for Certified Associate in Back-end Development course with Talentlabs. I am creating a weather app with ExpressJS and NodeJS.
+This is a simple project developed for Certified Associate in Back-end Development course with Talentlabs. Developed using ExpressJS. This project is back-end focused so please expect some buggy UI. 
 
 Try out:
 https://myweatherapp-xcw8.onrender.com
