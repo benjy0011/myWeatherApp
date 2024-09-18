@@ -1,7 +1,7 @@
 # myWeatherApp
 This is a simple project developed for Certified Associate in Back-end Development course with Talentlabs. Developed using ExpressJS. This project is back-end focused so please expect some buggy UI (sorry Im still bad at front end T.T). 
 
-Try out:
+Try out (it may takes a few minutes):
 https://myweatherapp-xcw8.onrender.com
 
 API:
@@ -10,5 +10,7 @@ OpenCage - Geocode (https://opencagedata.com/)
 
 OpenMeteo - Weather info (https://open-meteo.com/)
 
-![image](https://github.com/user-attachments/assets/c2e0cccd-524d-4acc-8dce-38d468c866a3)
-![image](https://github.com/user-attachments/assets/613e9559-b444-4af3-8a70-a5504775c318)
+![image](https://github.com/user-attachments/assets/fb2e1985-cb84-41ae-ad60-2754e7169012)
+
+![image](https://github.com/user-attachments/assets/5f081de3-6cac-4f5e-8822-9554b075d9ec)
+
