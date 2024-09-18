@@ -1,5 +1,5 @@
 # myWeatherApp
-This is a simple project developed for Certified Associate in Back-end Development course with Talentlabs. Developed using ExpressJS. This project is back-end focused so please expect some buggy UI. 
+This is a simple project developed for Certified Associate in Back-end Development course with Talentlabs. Developed using ExpressJS. This project is back-end focused so please expect some buggy UI (sorry Im still bad at front end T.T). 
 
 Try out:
 https://myweatherapp-xcw8.onrender.com
